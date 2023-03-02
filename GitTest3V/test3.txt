@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Maksim 
+<<<<<<< HEAD
+Dasha1
+=======
+Egor2
+>>>>>>> Egor2
+=======
+Maksim
+Dima3
+>>>>>>> Dima3

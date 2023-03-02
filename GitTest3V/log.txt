@@ -1,0 +1,47 @@
+commit e2b4de55e2045450d9d36a80244dcc6ea308b31f
+Author: Leonid <lerut22@gmail.com>
+Date:   Thu Feb 16 09:38:52 2023 +0900
+
+    Изменение файлов c именами Dima3
+
+commit 4b166de2745eb6885d832154b4c0b26a51a20cb7
+Author: Leonid <lerut22@gmail.com>
+Date:   Thu Feb 16 09:33:40 2023 +0900
+
+    Создать логи в logs.txt
+
+commit 5e1d3b93ce2045450d9d36a80244dcc6ea67b113f
+Author: Leonid <lerut22@gmail.com>
+Date:   Thu Feb 16 09:11:48 2023 +0900
+
+    Изменение файлов и добавление имен Egor2
+
+commit c39b4d55e2045450d9d36a80244dcc6ea2f31b82
+Author: Leonid <lerut22@gmail.com>
+Date:   Thu Feb 16 09:08:49 2023 +0900
+
+    Изменение файлов и добавление имен Dasha1
+
+commit 8d7d0c1aa4e94d3921e131034dde6b643e607c51
+Author: Leonid <lerut22@gmail.com>
+Date:   Thu Feb 16 09:04:21 2023 +0900
+
+    Создание веток
+
+commit eb610434b3ad2d0725af40aae272b43527d1250d
+Author: Leonid <lerut22@gmail.com>
+Date:   Thu Feb 16 09:02:56 2023 +0900
+
+    Создание test2.txt и test3.txt
+
+commit 72116a8f40bcc7c8998705a6db3e0b3919e7ab88
+Author: Leonid <lerut22@gmail.com>
+Date:   Thu Feb 16 09:01:06 2023 +0900
+
+    Написание Hello World! в test1.txt
+
+commit 3611750c65c2316c1398d792da1bff40d4959d3f
+Author: Leonid <lerut22@gmail.com>
+Date:   Thu Feb 16 08:59:02 2023 +0900
+
+    Создан файл test1.txt

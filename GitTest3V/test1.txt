@@ -1,0 +1,12 @@
+Hello World!
+
+Maksim
+<<<<<<< HEAD
+<<<<<<< HEAD
+Dasha1
+=======
+Egor2
+>>>>>>> Egor2
+=======
+Dima3
+>>>>>>> Dima3
